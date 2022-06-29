@@ -1,8 +1,15 @@
 # ProwayComputers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was developed as a request of the Start program, provided by Capgemini, and fully 
+instructed by ProWay Technology Training.
+
+It simulates an e-commerce where you can buy and search for technology products and has only the front-end part.
+
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
+
+Run `npm install`.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
